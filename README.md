@@ -1,0 +1,2 @@
+# schoolcontrol
+django project
